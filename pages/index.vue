@@ -51,4 +51,13 @@ export default {
   font-size: 30px;
   background: #000;
 }
+@media (max-width: 576px) {
+  .main-loop {
+    width: 100%;
+    grid-template-columns: 1fr;
+  }
+  .img {
+    margin: 0 auto;
+  }
+}
 </style>
