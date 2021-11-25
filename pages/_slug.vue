@@ -59,7 +59,7 @@ span {
   flex-direction: column;
 }
 .planet-img {
-  width: 300px;
+  /* width: 300px; */
   height: 500px;
 }
 .planet-img img {
