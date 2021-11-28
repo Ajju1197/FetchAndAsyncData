@@ -37,6 +37,8 @@ export default {
     // https://go.nuxtjs.dev/eslint
     '@nuxtjs/eslint-module',
     '@nuxt/image',
+    '@nuxtjs/color-mode',
+    '@nuxtjs/svg'
   ],
   // layoutTransition: 'layout'
   // or
@@ -50,6 +52,7 @@ export default {
     // https://go.nuxtjs.dev/axios
     '@nuxtjs/axios',
     '@nuxt/image',
+    '@nuxt/content',
   ],
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios

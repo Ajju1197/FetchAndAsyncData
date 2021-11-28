@@ -1,0 +1,16 @@
+{
+  "tables":[
+    {
+      "id":"1",
+      "slug":"ajjubhai",
+      "name":"ajju",
+      "company":"oro"
+    },
+    {
+      "id":"2",
+      "slug":"ajjub",
+      "name":"ramu",
+      "company":"oro1"
+    }
+  ]
+}

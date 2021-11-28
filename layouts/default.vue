@@ -1,5 +1,6 @@
 <template>
   <div>
+    <ColorModePicker />
     <nuxt />
   </div>
 </template>

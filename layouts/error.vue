@@ -3,7 +3,7 @@
     <p class="error-text">404</p>
     <div>
       <span>Take me</span>
-      <NuxtLink to="/">Home</NuxtLink>
+      <NuxtLink to="/">Ajju please take  mehome</NuxtLink>
     </div>
   </div>
 </template>

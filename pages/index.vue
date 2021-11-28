@@ -30,10 +30,11 @@ export default {
 <style scoped>
 .main-loop {
   width: 100%;
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
+  display: flex;
+  justify-content: center;
+  /* grid-template-columns: 1fr 1fr 1fr; */
   flex-wrap: wrap;
-  grid-row-gap: 1em;
+  grid-gap: 1em;
 }
 .img {
   position: relative;

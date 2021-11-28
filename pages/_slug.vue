@@ -39,7 +39,7 @@ export default {
 <style scoped>
 .mountain {
   height: 100vh;
-  background: darkblue;
+  /* background: darkblue; */
   color: #fff;
 }
 span {
